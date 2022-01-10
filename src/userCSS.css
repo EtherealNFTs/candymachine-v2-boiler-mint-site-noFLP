@@ -1,10 +1,10 @@
 :root {
   
   /* Main Settings  */
-  --main-background-color: rgb(235, 235, 235);
+  --main-background-color: rgb(245, 245, 245);
 
   --text-primary-color: rgb(0, 0, 0);
-  --text-secondary-color: rgb(68, 68, 68);
+  --text-secondary-color: rgb(78, 78, 78);
 
   /* Nav Settings  */
   --nav-link-color: rgb(0, 0, 0);
@@ -24,7 +24,7 @@
   --mobile-nav-link-size: 20px;
 
   /* Card Settings  */
-  --card-background-color: rgb(216, 216, 216);
+  --card-background-color: rgb(226, 226, 226);
   --card-border-radius: 10px;
   --card-shadow: 10px 10px 20px -13px rgb(121, 121, 121);
 
