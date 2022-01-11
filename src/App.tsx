@@ -65,10 +65,7 @@ const App = () => {
           <li>
             <img className="mobile-nav-logo" src="/img/logo.png" alt="" />
             <div className="social-icons">
-            // eslint-disable-next-line
-            <a href="https://twitter.com/EtherealNFT" target="_blank">
                 <img className="nav-social" src="/icons/twitter.svg" alt="" />
-            </a>
               <img className="nav-social" src="/icons/discord.svg" alt="" />
             </div>
           </li>
