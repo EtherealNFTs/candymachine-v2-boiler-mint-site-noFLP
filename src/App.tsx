@@ -78,12 +78,10 @@ const App = () => {
         <div className="nav-container">
           <img className="nav-logo" src="/img/logo.png" alt="" />
           <div className="social-icons hide-800">
-          // eslint-disable-next-line
-          <a href="https://twitter.com/EtherealNFT" target="_blank">
-            <img className="nav-social" src="/icons/twitter.svg" alt="" />
+          <a href="https://twitter.com/EtherealNFT" target="_blank" rel="noreferrer">
+            <img className="nav-social" src="/icons/twitter.svg" alt=""  />
           </a>
-          // eslint-disable-next-line
-          <a href="https://discord.gg/9x8J5UPeaM" target="_blank">
+          <a href="https://discord.gg/9x8J5UPeaM" target="_blank" rel="noreferrer">
             <img className="nav-social" src="/icons/discord.svg" alt="" />
           </a>
           </div>
@@ -94,8 +92,7 @@ const App = () => {
             <div style={{ padding: "0 24px 0 24px 0" }}>
               <h3 className="text-secondary-color">Welcome To</h3>
               <h1 className="pb-2">Ethereal Dragons</h1>
-              // eslint-disable-next-line
-              <img src="Ethgif.gif"/>
+              <img src="Ethgif.gif" alt=""/>
             </div>
             <div>
               <ThemeProvider theme={theme}>
